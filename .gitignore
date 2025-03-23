@@ -1,0 +1,17 @@
+# Ignore build directories and object files
+/build/
+*.o
+*.obj
+*.a
+*.out
+*.exe
+
+# Ignore IDE or editor-specific files (e.g., VS Code, Sublime, etc.)
+.vscode/
+.idea/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
